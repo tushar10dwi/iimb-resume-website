@@ -1,60 +1,45 @@
-# iimb-resume-website
-By: Priyansh Tiwari
-Date: April 22, 2025
+Project Title: Priyansh Tiwari - Resume Website
+GitHub Repository: [Insert your GitHub repository link here]
 
-Objective
-The objective of this project was to create a clean, professional resume website using only HTML and vanilla CSS to showcase my academic background, achievements, and skills.
+✨ Improvements Made:
+Custom Profile Layout with Vanilla CSS
 
-Tools & Technologies Used
-HTML5: For structuring the content of the webpage.
+Designed a clean, responsive layout using only vanilla CSS and HTML, without using any frameworks.
 
-CSS3 (Vanilla CSS): For styling and layout design.
+Utilized Google Fonts (Inter) for improved readability and a modern look.
 
-Google Fonts (Inter): For enhanced typography.
+Employed flexbox for aligning the header section efficiently.
 
-Key Sections Implemented
-Header
+Visual Design Enhancements
 
-Includes profile photo, name, pronouns, location, and official email address.
+Added profile image with styling (circular shape, border).
 
-Summary
+Defined consistent color scheme with red as a highlight color to match personal branding.
 
-Highlights my academic achievements, competitive performances, and professional interests like data science and music production.
+Applied margin and padding for neat spacing between sections.
 
-Education
+New Sections Introduced
 
-Lists current degrees pursued at IIM Bangalore and IIT Madras.
+Included a Summary section to highlight key achievements (IIM & IIT milestones, Spotify presence, etc.).
 
-Each entry includes course name, institution, duration, and relevant skills.
+Created structured Education and Skills sections with detailed formatting:
 
-Skills
+Institution Name
 
-Displays key skills such as Management Consulting and Machine Learning.
+Degree and specialization
 
-Skills are aligned with the institutions they were acquired at.
+Duration
 
-Footer
+Skills associated with the course
 
-Contains a simple copyright.
+Semantic HTML Tags
 
-Design Choices
-A minimal and modern layout with clean typography and well-structured sections.
+Used semantic tags like <section>, <ul>, <li>, and <footer> for better structure and accessibility.
 
-Consistent use of colors and font sizes to ensure clarity and professionalism.
+Followed HTML5 best practices for readability and maintainability.
 
-Mobile-responsive width using a centered container with padding.
+Responsiveness & Readability
 
-Challenges Faced
-Ensuring the design was visually appealing without using CSS frameworks like Tailwind.
+Ensured content layout remains readable and organized on different screen sizes.
 
-Managing layout and spacing only through vanilla CSS, which required detailed manual styling.
-
-Outcome
-The final product is a sleek, single-page resume website that can be hosted online or shared directly as a portfolio. It reflects both technical knowledge and creative presentation.
-
-Future Improvements
-Add a Projects section with links and screenshots.
-
-Include a downloadable resume PDF.
-
-Implement dark mode and responsiveness for smaller devices.
+Used font sizes and color contrast that are accessible and easy on the eyes.
