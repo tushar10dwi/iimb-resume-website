@@ -1,5 +1,4 @@
 Project Title: Priyansh Tiwari - Resume Website
-GitHub Repository: [Insert your GitHub repository link here]
 
 ✨ Improvements Made:
 Custom Profile Layout with Vanilla CSS
